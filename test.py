@@ -8,7 +8,7 @@ details = {
     "Surname" : "Anna",
     "Firstname" : "Hari",
     "Lastname" : "Prasad",
-    "email" : "annahari.ram97@gmail.com"
+    "Email" : "annahari.ram97@gmail.com"
 }
 
 db1 = client['mongotest']
